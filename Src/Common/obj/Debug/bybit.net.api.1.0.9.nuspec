@@ -32,7 +32,7 @@ Dive into a plethora of functionalities:
       - Set TP/SL Mode was deprecated because now tpsl is based on order level
       - Set Risk Limit was deprecated because it will adapt automaticaaly by your hold position</releaseNotes>
     <tags>Bybit Future Spot Trading Option Inverse Linear Api Crypto Rest Http Https Webscoket WSS OpenApi</tags>
-    <repository type="git" url="https://github.com/wuhewuhe/bybit.net.api" commit="f6a2a8b60bd6566206833fdfb9eb1030156da89a" />
+    <repository type="git" url="https://github.com/wuhewuhe/bybit.net.api" commit="2e6e722cebdbc413e8f4643d3982ab1c3425bb3b" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Microsoft.Extensions.Logging" version="7.0.0" exclude="Build,Analyzers" />
@@ -41,9 +41,9 @@ Dive into a plethora of functionalities:
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Net\GithubProjects\bybit.net.api\Src\Common\bin\Debug\net6.0\bybit.net.api.dll" target="lib\net6.0\bybit.net.api.dll" />
-    <file src="C:\Net\GithubProjects\bybit.net.api\images\logo.png" target="\logo.png" />
-    <file src="C:\Net\GithubProjects\bybit.net.api\LICENSE" target="\LICENSE" />
-    <file src="C:\Net\GithubProjects\bybit.net.api\README.md" target="\README.md" />
+    <file src="/Users/sandrogarcia/Projects/CriptoBot-Backend/CriptoBot/bybit.net.api/src/common/bin/Debug/net6.0/bybit.net.api.dll" target="lib/net6.0/bybit.net.api.dll" />
+    <file src="/Users/sandrogarcia/Projects/CriptoBot-Backend/CriptoBot/bybit.net.api/images/logo.png" target="/logo.png" />
+    <file src="/Users/sandrogarcia/Projects/CriptoBot-Backend/CriptoBot/bybit.net.api/LICENSE" target="/LICENSE" />
+    <file src="/Users/sandrogarcia/Projects/CriptoBot-Backend/CriptoBot/bybit.net.api/README.md" target="/README.md" />
   </files>
 </package>
